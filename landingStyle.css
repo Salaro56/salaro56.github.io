@@ -1,0 +1,22 @@
+.landing-page{
+    background: rgb(12,12,12);
+    background-size: cover;
+    padding: 40px 0;
+    width: 100%;
+}
+.border{
+    width: 500px;
+    height: 10px;
+    background: #34495e;
+    margin: 40px auto;
+}
+.landing-page-content{
+    background: rgb(30,30,30);
+}
+.head{
+    background: rgb(12,12,12);
+    text-align: center;
+    color: aliceblue;
+    border-bottom: 3px double white;
+    border-top: 3px double white;
+}
